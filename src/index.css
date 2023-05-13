@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Fira Code', monospace;
+}
+
+body {
+    margin: 0;
+    background-color: #fff;
+}
